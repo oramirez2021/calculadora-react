@@ -1,2 +1,2 @@
-# calculadora-react
+# ReactCalculator
 Created with CodeSandbox
